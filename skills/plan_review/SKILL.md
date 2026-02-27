@@ -1,3 +1,10 @@
+---
+name: plan_review
+description: 对 dev_plan 产出的方案做缺陷与顺序审查，输出可执行最终计划。
+metadata:
+  short-description: 计划审查与补全
+---
+
 # Skill: plan_review
 
 ## Goal

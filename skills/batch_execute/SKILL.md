@@ -1,3 +1,10 @@
+---
+name: batch_execute
+description: 按确认计划分步落地代码并持续更新 current_plan.md，支持断点续作。
+metadata:
+  short-description: 批量按计划执行
+---
+
 # Skill: batch_execute
 
 ## Goal

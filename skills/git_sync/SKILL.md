@@ -1,3 +1,10 @@
+---
+name: git_sync
+description: 同步架构记忆文档、归档 current_plan.md，并生成规范 commit 建议。
+metadata:
+  short-description: 提交前同步与归档
+---
+
 # Skill: git_sync
 
 ## Goal

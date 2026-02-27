@@ -1,3 +1,10 @@
+---
+name: dev_plan
+description: 在代码变更前产出结构化开发计划，明确范围、约束和执行步骤。
+metadata:
+  short-description: 结构化开发计划
+---
+
 # Skill: dev_plan
 
 ## Goal

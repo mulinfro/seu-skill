@@ -1,3 +1,10 @@
+---
+name: code_refactor
+description: 识别并清理代码坏味道，保持行为一致地完成重构。
+metadata:
+  short-description: 代码重构与净化
+---
+
 # Skill: code_refactor
 
 ## Goal
